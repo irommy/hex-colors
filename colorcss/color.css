@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-top: 30vh;
+}
+
+#click {
+  padding: 1rem;
+  background-color: transparent;
+  border-radius: 30px;
+}
